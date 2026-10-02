@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1747509070 source:c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\tablero.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<string>
+	"colores.hpp"
+	"utilidades.hpp"
+
+1747496256 c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\colores.hpp
+
+1747496256 c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\utilidades.hpp
+	"colores.hpp"
+
+1747496256 source:c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\utilidades.cpp
+	<windows.h>
+	"utilidades.hpp"
+
+1747507273 source:c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<conio.h>
+	"colores.hpp"
+	"utilidades.hpp"
+	"tablero.hpp"
+	"menu.hpp"
+
+1747506349 c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\tablero.hpp
+	<string>
+
+1747507273 c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\menu.hpp
+	<string>
+
+1747496256 source:c:\users\jaret\documents\2do semestres\mat discretas\rerversi-ddy\menu.cpp
+	<iostream>
+	<conio.h>
+	"colores.hpp"
+	"utilidades.hpp"
+	"tablero.hpp"
+	"menu.hpp"
+
